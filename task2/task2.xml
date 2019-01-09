@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<University>
+    <name>Foo University</name>
+    <description>One of the oldest universities in this part of globe</description>
+    <yearOfEstablishment>1792</yearOfEstablishment>
+    <rector>
+        <firstName>John</firstName>
+        <lastName>Doe</lastName>
+    </rector>
+    <!--> This is the comment, just as an example -->
+    <faculties>  
+        <faculty id = "S5">
+            <fullName>Faculty of Computer Science</fullName>
+            <dean>
+                <firstName>John</firstName>
+                <lastName>Smith</lastName>
+            </dean>
+            <majors>
+                <major stacionary="true">
+                    <name>Computer Science</name>
+                    <durationInYears>2</durationInYears>
+                    <type>Master</type>
+                    <description>example description1</description>
+                </major>
+                <major stacionary="false">
+                    <name>Computer Science</name>
+                    <durationInYears>2</durationInYears>
+                    <type>Master</type>
+                    <description>example description2</description>
+                </major>
+            </majors>
+        </faculty>
+        <faculty id = "S11">
+            <fullName>Faculty of Architecture</fullName>
+            <dean>
+                <firstName>Carl</firstName>
+                <lastName>Smith</lastName>
+            </dean>
+            <majors>
+                <major stacionary="true">
+                    <name>Architechture</name>
+                    <durationInYears>3</durationInYears>
+                    <type>Engineering</type>
+                    <description>example description3</description>
+                </major>
+                <major stacionary="true">
+                    <name>Architechture</name>
+                    <durationInYears>2</durationInYears>
+                    <type>Master</type>
+                    <description>example description4</description>
+                </major>
+            </majors>
+        </faculty>
+    </faculties>
+</University>
+
+<!-- Author: Krzysztof Tomkow, index number: 218514 -->

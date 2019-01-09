@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<people>
+    <person>
+        <name>Saul</name>
+        <surname>Hudson</surname>
+        <homeAddress>
+            <city>London</city>
+            <zipCode>07-292</zipCode>
+            <street>Slash Street</street>
+            <number>2</number>
+            <country>UK</country>
+        </homeAddress>
+        <phone>657263819</phone>
+        <mobile>739283648</mobile>
+        <job>Musician</job>
+        <birthDay>
+            <day>23</day>
+            <month>7</month>
+            <year>1965</year>
+        </birthDay>
+    </person>
+    <person>
+        <name>Jack</name>
+        <surname>Black</surname>
+        <homeAddress>
+            <city>Los Angeles</city>
+            <zipCode>02-030</zipCode>
+            <street>Tenacious Street</street>
+            <number>2D</number>
+            <country>USA</country>
+        </homeAddress>
+        <phone>778773675</phone>
+        <mobile>653567964</mobile>
+        <job>Musician</job>
+        <birthDay>
+            <day>28</day>
+            <month>08</month>
+            <year>1969</year>
+        </birthDay>
+    </person>
+    <person>
+        <name>Jimi</name>
+        <surname>Hendrix</surname>
+        <homeAddress>
+            <city>Seattle</city>
+            <zipCode>04-222</zipCode>
+            <street>Miracles Street</street>
+            <number>384</number>
+            <country>USA</country>
+        </homeAddress>
+        <phone>293857290</phone>
+        <mobile>678348943</mobile>
+        <job>Musician</job>
+        <birthDay>
+            <day>27</day>
+            <month>11</month>
+            <year>1942</year>
+        </birthDay>
+    </person>
+    <person>
+        <name>Steve</name>
+        <surname>Vai</surname>
+        <homeAddress>
+            <city>New York</city>
+            <zipCode>24-242</zipCode>
+            <street>White Street</street>
+            <number>23C</number>
+            <country>USA</country>
+        </homeAddress>
+        <phone>363567283</phone>
+        <mobile>678345173</mobile>
+        <job>Guitar master</job>
+        <birthDay>
+            <day>06</day>
+            <month>06</month>
+            <year>1960</year>
+        </birthDay>
+    </person>
+</people>
+
+        <!-- Author: Krzysztof Tomkow, index number: 218514 -->

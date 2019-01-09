@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<person>
+    <name>John</name>
+    <surname>Doe</surname>
+    <homeAddres>
+        <city>New York</city>
+        <zipCode>00-000</zipCode>
+        <street>Foo Street</street>
+        <number>2</number>
+        <country>USA</country>
+    </homeAddres>
+    <phone>657263819</phone>
+    <mobile>739283648</mobile>
+    <job>Architect</job>
+    <birthDate>
+        <day>10</day>
+        <month>7</month>
+        <year>1976</year>
+    </birthDate>
+</person>
+
+<!-- Author: Krzysztof Tomkow, index number: 218514 -->
